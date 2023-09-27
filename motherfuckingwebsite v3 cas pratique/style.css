@@ -1,0 +1,86 @@
+body {
+    background-color:black;
+    color:white;
+    text-align:justify;
+}
+span.wr {
+    text-decoration: underline;
+    color:red;
+}
+span.mfw {
+    color: red;
+}
+span.colored {
+color: rgb(red, green, blue)
+}
+span.sb
+{
+    color: blue
+}
+span {
+    color: violet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p.fakepre
+{
+    font-family: monospace;
+    font-size: .9em;
+}
+span.foufoufou
+{
+    color: #444;
+    font-weight: 700;
+}
+span.foufivfoufivfoufiv {
+    color: #454545;
+    font-weight: 700;
+}
+div {
+    display: block;
+}
+div.fancyPositioning div.picture-left {
+    float: left;
+    width: 40%;
+    overflow: hidden;
+    margin-right: 1em
+}
+div.fancyPositioning div.tleft {
+    float: left;
+    width: 55%;
+}
+img {
+    width: 450px;
+    }
+
+    blockquote span {
+        float: left;
+        margin-left: 1rem;
+        padding-top: 1rem;
+        color:#d3c9be;
+    }
+
+    blockquote author {
+        display: block;
+        clear: both;
+        font-size: .6em;
+        margin-left: 2.4rem;
+        font-style: oblique;
+    }
+    a.kopimi, a.kopimi img.kopimi {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    a.kopimi, a.kopimi img.kopimi {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    user agent stylesheet
+    img {
+        overflow-clip-margin: content-box;
+        overflow: clip;
+    }
+    span.visited {
+        color: #941352;
+    }
